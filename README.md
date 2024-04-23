@@ -17,9 +17,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+git clone https://github.com/aakankshagupta18/all-about-ollama.git
 npm install
+brew install ollama
+ollama run llama2
+ollama run llama3
 ```
-
 ### Compile and Hot-Reload for Development
 
 ```sh
@@ -43,8 +46,5 @@ npm run test:unit
 ```sh
 npm run lint
 ```
-# all-about-ollama
-hello world
 
-# all-about-ollama
 # all-about-ollama
